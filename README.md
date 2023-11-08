@@ -5,7 +5,7 @@ Chrome extension to give you the Neetcode solutions to applicable Leetcode probl
 # Usage
 
 1. Install Python3 and pip
-2. Clone this github repository to local
+2. Clone this github repository, use `git clone git@github.com:ForVic/neetcode-chrome-extension.git` or `git clone https://github.com/ForVic/neetcode-chrome-extension.git`
 3. Run `pip -r requirements.text`
 4. Run `python server/neetcode-scraper.py` this should take about a minute or two.
 5. Run `python server/main.py`
