@@ -1,0 +1,15 @@
+{
+    "name": "Neetcode Solution Finder",
+    "version": "1.0.0",
+    "description": "Find the Neetcode solution for the current problem",
+    "manifest_version": 3,
+    "author": "Victor Sunderland",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Neetcode Solution"
+    },
+    "permissions": [
+        "activeTab",
+        "http://127.0.0.1/*"
+    ]
+}
